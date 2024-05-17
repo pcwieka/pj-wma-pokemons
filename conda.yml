@@ -5,3 +5,7 @@ dependencies:
   - python=3.11.9
   - pandas
   - pillow
+  - matplotlib
+  - pytorch
+  - torchvision
+  - pip
